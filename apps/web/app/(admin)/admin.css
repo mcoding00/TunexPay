@@ -72,7 +72,7 @@
 .app-menu .arco-menu-inline-header:hover,
 .app-menu .arco-menu-sub-menu-title:hover { background: var(--fill-2); color: var(--ink); }
 .app-menu .arco-menu-selected,
-.app-menu .arco-menu-item.arco-menu-selected { background: var(--fill-2); color: var(--primary); font-weight: 500; }
+.app-menu .arco-menu-item.arco-menu-selected { background: var(--primary-soft); color: var(--primary); font-weight: 500; border-left: 3px solid var(--accent-green); padding-left: 9px; }
 .app-menu .arco-menu-selected .menu-label { color: var(--primary); }
 .app-menu .arco-menu-selected .menu-icon { color: var(--primary); }
 
